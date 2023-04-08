@@ -1,2 +1,1 @@
-python 3.x
-pip install pyautogui
+PyAutoGUI==0.9.53
